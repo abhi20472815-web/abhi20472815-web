@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi, I’m Abhishek, a passionate web developer who enjoys building clean, responsive, and user-friendly applications. I love learning new technologies and turning ideas into real-world projects.<br>I’m currently working on web development projects using the MERN stack, focusing on building scalable and efficient applications.I’m looking to collaborate on open-source projects, full-stack web applications, and innovative ideas that solve real-world problems.I’m looking for help with improving my backend architecture, system design skills, and best practices in full-stack development.I’m currently learning advanced JavaScript, React, Node.js, and exploring best practices in databases and APIs.
+ Hi, I’m Abhishek
+ A passionate web developer who enjoys building clean, responsive, and user-friendly applications. I love learning new technologies and turning ideas into real-world projects.<br>I’m currently working on web development projects using the MERN stack, focusing on building scalable and efficient applications.I’m looking to collaborate on open-source projects, full-stack web applications, and innovative ideas that solve real-world problems.I’m looking for help with improving my backend architecture, system design skills, and best practices in full-stack development.I’m currently learning advanced JavaScript, React, Node.js, and exploring best practices in databases and APIs.
 
 
 ## 🌐 Socials:
